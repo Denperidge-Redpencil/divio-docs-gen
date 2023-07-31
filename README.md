@@ -1,3 +1,8 @@
+# Archived
+Due to the projects' scope becoming too big for the end purposes in the parent project its used in, it has currently been archived. See the [new fork here](https://github.com/Denperidge-Redpencil/divio-docs-parser), or - in case of further development on this repo - make sure to check the closed issues for the "wontfix" label, as they were closed solely for the archival.
+
+---
+
 # Divio Docs Generator
 
 Automatically collect, aggregate and structure all your [divio-style documentation](https://documentation.divio.com/) into a tree of .md files.
